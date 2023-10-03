@@ -1,5 +1,51 @@
 Menu<>pages
 present : 
+
+# GitHub Privacy Statement
+In this article
+The short version
+Summary
+GitHub Privacy Statement
+Who is responsible for the processing of your information?
+GitHub acting on your behalf
+What information GitHub collects
+How GitHub uses your information
+How we share the information we collect
+Your choices regarding our processing of your personal data
+Our use of cookies and tracking technologies
+Retention of personal data
+How GitHub secures your information
+Changes to our Privacy Statement
+License
+Contacting GitHub
+Translations
+European Data Protection Rights Notice
+U.S. State Data [Privacy](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)
+
+# GitHub Terms of Service
+In this article
+Summary
+The GitHub Terms of Service
+A. Definitions
+B. Account Terms
+C. Acceptable Use
+D. User-Generated Content
+E. Private Repositories
+F. Copyright Infringement and DMCA Policy
+G. Intellectual Property Notice
+H. API Terms
+I. GitHub Additional Product Terms
+J. Beta Previews
+K. Payment
+L. Cancellation and Termination
+M. Communications with GitHub
+N. Disclaimer of Warranties
+O. Limitation of Liability
+P. Release and Indemnification
+Q. Changes to These Terms
+R. Miscellaneous
+# [support github](https://support.github.com/request)
+
 # This is a basic workflow to help you get started with Actions
 
 name: CI
@@ -35,4 +81,7 @@ jobs:
       - name: Run a multi-line script
         run: |
           echo Add other actions to build,
-          echo test, and deploy your project.
+
+          echo test, and deploy your project.. 
+          # [License](https://opensource.org/license/mit/)
+ 
